@@ -8,6 +8,8 @@ The **Infographics Incentive** project rewards content creators who produce info
 
 ## Contract Address
 0x400BD2c9Dc53c1ce51D3c7146fE4b0C60861a3f8
+![image](https://github.com/user-attachments/assets/05b12234-c7b9-423e-b978-59bb207857aa)
+
 
 ## Project Vision
 The goal of **Infographics Incentive** is to foster a creative environment where users are rewarded for sharing valuable infographics. By leveraging blockchain technology, this platform ensures that content creators are fairly compensated for the impact their content has on others. By using NFTs (ERC-721), content is not only monetized but also preserved securely on the blockchain, offering creators the ability to track and prove ownership.
